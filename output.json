@@ -4849,6 +4849,17 @@
 	"seo": "CHO",
 	"hub": "COL",
 	"routeid": "03-06"
+}, {
+	"id": 445,
+	"libid": "4800",
+	"name": "Zane Village Lockers",
+	"address": "Box 185; 140-146 S Paint Street",
+	"city": "Chillicothe",
+	"state": "OH",
+	"zip": 45601,
+	"seo": "CHZ24",
+	"hub": "COL",
+	"routeid": "03-06"
 }]
 
  
