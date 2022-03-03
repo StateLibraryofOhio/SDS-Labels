@@ -4882,6 +4882,17 @@
 	"seo": "LUD",
 	"hub": "COL",
 	"routeid": "19-06"
+}, {
+	"id": 448,
+	"libid": "4800",
+	"name": "Clarksburg Hold Lockers",
+	"address": "Box 185; 140-146 S Paint Street",
+	"city": "Chillicothe",
+	"state": "OH",
+	"zip": 45601,
+	"seo": "CHC24",
+	"hub": "COL",
+	"routeid": "03-06"
 }]
 
  
