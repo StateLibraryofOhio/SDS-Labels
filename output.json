@@ -4871,6 +4871,17 @@
 	"seo": "CHV",
 	"hub": "COL",
 	"routeid": "03-06"
+}, {
+	"id": 447,
+	"libid": "16300",
+	"name": "LCL Utica Drive up",
+	"address": "101 West Main St",
+	"city": "Newark",
+	"state": "OH",
+	"zip": 43055,
+	"seo": "LUD",
+	"hub": "COL",
+	"routeid": "19-06"
 }]
 
  
