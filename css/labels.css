@@ -94,4 +94,8 @@
         display: inline;
 
     }
+
+    .priority {
+        filter: opacity(0.7)
+    }
 }
