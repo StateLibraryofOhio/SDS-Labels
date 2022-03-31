@@ -26,7 +26,7 @@ function addCustomLabel() {
             "zip": parseInt(zip),
             "seo": null,
             "hub": null,
-            "routeid": null
+            "route": null
         });
 
         let x = document.createElement("option");
