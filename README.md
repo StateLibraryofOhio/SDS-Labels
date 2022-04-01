@@ -32,6 +32,7 @@ If the JSON structure is malformed, the entries will __not__ populate the dropdo
 ```json
   {
     "id": 9999,
+    "libid": 900,
     "name": "A Single Library",
     "address": "123 Very Nice Rd.",
     "city": "Columbus",
@@ -39,6 +40,8 @@ If the JSON structure is malformed, the entries will __not__ populate the dropdo
     "zip": 43201,
     "seo": "XXX",
     "hub": "ZZZ",
-    "routeid": 9999
+    "route": 9999,
+    "latitude": "39.98153098",
+    "longitude": "-82.99600477"
   }
 ```

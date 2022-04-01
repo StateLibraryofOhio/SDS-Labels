@@ -9,7 +9,7 @@
 <body class="bg-light">
 <div class="container-md">
   <div class="py-3 text-center">
-    <img alt="SDS Logo" class="mt-0 mb-2" height="180" src="sds_logo.png" width="171">
+    <img alt="SDS Logo" class="mt-0 mb-2" height="180" src="img/logo.png" width="175">
     <h1>Statewide Delivery Manifest</h1>
   </div>
   <div class="row justify-content-center">
@@ -52,6 +52,19 @@
     xmlhttp.onreadystatechange = function () {
         if (this.readyState === 4 && this.status === 200) {
             let e = JSON.parse(this.responseText);
+
+            // columns for filter
+            let d = ['libid', 'name', 'address', 'city', 'zip', 'seo', 'hub', 'route'];
+
+            // filter JSON
+            e = e.map(x => {
+                let n = {};
+                for (c of d) {
+                    n[c] = x[c];
+                }
+                return n;
+            });
+
             fillDivWithJSON(e);
             initSearchVars();
         }

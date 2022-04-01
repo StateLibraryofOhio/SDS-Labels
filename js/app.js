@@ -26,7 +26,7 @@ function addCustomLabel() {
             "zip": parseInt(zip),
             "seo": null,
             "hub": null,
-            "routeid": null
+            "route": null
         });
 
         let x = document.createElement("option");
@@ -79,10 +79,10 @@ function getLabelData() {
                 e.textContent = [destination.city, destination.state, destination.zip].join(" ");
                 break;
             case "hub":
-                e.textContent = destination.hub
+                e.textContent = destination.hub;
                 break;
             case "route-id":
-                e.textContent = destination.routeid
+                e.textContent = destination.route;
                 break;
             case "seo":
                 // empty if no value

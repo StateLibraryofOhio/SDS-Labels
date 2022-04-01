@@ -9,16 +9,19 @@
 <body class="bg-light" onload="initDB();">
 <div class="container-md">
   <div class="py-3 text-center">
-    <img alt="SDS Logo" class="mt-0 mb-1" height="180" src="sds_logo.png" width="171">
+    <img alt="SDS Logo" class="mt-0 mb-1" height="180" src="img/logo.png" width="175">
     <h1>Statewide Delivery Labels</h1>
-    <p><em>for STAT Courier Service</em></p>
+    <p><em>for Priority Dispatch</em></p>
     <p class="lead">Choose the source and destination for your labels and click &quot;Print&quot;.</p>
   </div>
   <div class="row justify-content-center">
     <div class="col-md-8">
       <form id="labels" name="labels">
         <label class="form-label" for="source">SOURCE</label>
-        <p class="float-right"><a data-target="#custom-label" data-toggle="modal" href="#">Use custom</a></p>
+        <p class="float-right">
+          <a href="/manifest.html">Manifest</a> |
+          <a data-target="#custom-label" data-toggle="modal" href="#">Use custom</a>
+        </p>
         <select aria-label="Source address" autocomplete="off" class="form-select form-select-lg mb-3" id="source" onchange="getLabelData();" required>
           <option disabled selected value="-">Choose a library...</option>
         </select>
