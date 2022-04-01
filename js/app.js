@@ -32,8 +32,8 @@ function addCustomLabel() {
         let x = document.createElement("option");
         x.text = name + " (" + libid + ") ";
         x.value = id;
-        document.getElementById("source").add(x);
-        document.getElementById("source").value = id;
+        document.getElementById("destination").add(x);
+        document.getElementById("destination").value = id;
 
         getLabelData();
     }
