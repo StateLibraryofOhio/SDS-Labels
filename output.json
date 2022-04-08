@@ -38,8 +38,8 @@
     "seo": "UTA",
     "hub": "CVG",
     "route": 1002,
-    "latitude": null,
-    "longitude": null
+    "latitude": 38.6707295402,
+    "longitude": -83.7718102732
   },
   {
     "id": 3,
@@ -52,8 +52,8 @@
     "seo": "ADA",
     "hub": "TOL",
     "route": 5003,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.7731778285,
+    "longitude": -83.8227309444
   },
   {
     "id": 4,
@@ -80,8 +80,8 @@
     "seo": null,
     "hub": "CLE",
     "route": 4005,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.0835804646,
+    "longitude": -81.5169311597
   },
   {
     "id": 6,
@@ -122,8 +122,8 @@
     "seo": null,
     "hub": "CLE",
     "route": 4004,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.6075388166,
+    "longitude": -80.5730520169
   },
   {
     "id": 9,
@@ -232,7 +232,7 @@
     "state": "OH",
     "zip": 45701,
     "seo": null,
-    "hub": "COL",
+    "hub": "CMH",
     "route": 3006,
     "latitude": 39.336082,
     "longitude": -82.08464
@@ -311,15 +311,15 @@
     "id": 22,
     "libid": "52003",
     "name": "Bay Village",
-    "address": "502 Cahoon Road",
+    "address": "27400 Wolf Road",
     "city": "Bay Village",
     "state": "OH",
     "zip": 44140,
     "seo": null,
     "hub": "CLE",
     "route": 4008,
-    "latitude": 41.483044,
-    "longitude": -81.924225
+    "latitude": 41.4859682714,
+    "longitude": -81.9230766732
   },
   {
     "id": 23,
@@ -360,8 +360,8 @@
     "seo": null,
     "hub": "CLE",
     "route": 4008,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.2731240037,
+    "longitude": -82.8380924732
   },
   {
     "id": 26,
@@ -374,8 +374,8 @@
     "seo": "MBK",
     "hub": "CLE",
     "route": 4001,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.0965297438,
+    "longitude": -80.724596002
   },
   {
     "id": 27,
@@ -388,8 +388,8 @@
     "seo": "MFP",
     "hub": "CLE",
     "route": 4001,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.0965297438,
+    "longitude": -80.724596002
   },
   {
     "id": 28,
@@ -458,8 +458,8 @@
     "seo": "WCL",
     "hub": "CMH",
     "route": 3002,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.5473614943,
+    "longitude": -81.6341155074
   },
   {
     "id": 33,
@@ -486,8 +486,8 @@
     "seo": null,
     "hub": "CVG",
     "route": 1003,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.293955261,
+    "longitude": -83.9885409443
   },
   {
     "id": 35,
@@ -500,8 +500,8 @@
     "seo": "BML",
     "hub": "TOL",
     "route": 5003,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.0518391675,
+    "longitude": -83.015473256
   },
   {
     "id": 36,
@@ -514,8 +514,8 @@
     "seo": "BLU",
     "hub": "TOL",
     "route": 5003,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.8924448177,
+    "longitude": -83.8928995019
   },
   {
     "id": 37,
@@ -570,8 +570,8 @@
     "seo": null,
     "hub": "CLE",
     "route": 4005,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.3141703728,
+    "longitude": -81.6260596732
   },
   {
     "id": 41,
@@ -668,8 +668,8 @@
     "seo": "BCG",
     "hub": "CVG",
     "route": 1002,
-    "latitude": null,
-    "longitude": null
+    "latitude": 38.8666280654,
+    "longitude": -83.9053606155
   },
   {
     "id": 48,
@@ -682,8 +682,8 @@
     "seo": "BWN",
     "hub": "DAY",
     "route": 2002,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.845901184,
+    "longitude": -84.5400136269
   },
   {
     "id": 49,
@@ -696,8 +696,8 @@
     "seo": null,
     "hub": "DAY",
     "route": 2001,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.8705019317,
+    "longitude": -84.5849662732
   },
   {
     "id": 50,
@@ -724,8 +724,8 @@
     "seo": null,
     "hub": "CLE",
     "route": 4000,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.4717440051,
+    "longitude": -81.1463273547
   },
   {
     "id": 52,
@@ -738,8 +738,8 @@
     "seo": "CHO",
     "hub": "CMH",
     "route": 3005,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.3298438119,
+    "longitude": -82.9815898125
   },
   {
     "id": 53,
@@ -752,8 +752,8 @@
     "seo": "CHV",
     "hub": "CMH",
     "route": 3005,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.3298438119,
+    "longitude": -82.9815898125
   },
   {
     "id": 54,
@@ -766,8 +766,8 @@
     "seo": "CHV",
     "hub": "CMH",
     "route": 3005,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.3298438119,
+    "longitude": -82.9815898125
   },
   {
     "id": 55,
@@ -822,8 +822,8 @@
     "seo": null,
     "hub": "CMH",
     "route": 3004,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.5008127921,
+    "longitude": -82.8931858021
   },
   {
     "id": 59,
@@ -850,8 +850,8 @@
     "seo": "WCH",
     "hub": "CVG",
     "route": 1004,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.5366237137,
+    "longitude": -83.4370386732
   },
   {
     "id": 61,
@@ -864,8 +864,8 @@
     "seo": "WCH24",
     "hub": "CVG",
     "route": 1004,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.5366237137,
+    "longitude": -83.4370386732
   },
   {
     "id": 62,
@@ -934,8 +934,8 @@
     "seo": "OCC",
     "hub": "CVG",
     "route": 1003,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.2147138925,
+    "longitude": -83.8938033733
   },
   {
     "id": 67,
@@ -976,8 +976,8 @@
     "seo": "CHI",
     "hub": "CMH",
     "route": 3005,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.3298438119,
+    "longitude": -82.9815898125
   },
   {
     "id": 70,
@@ -1004,8 +1004,8 @@
     "seo": "PPC",
     "hub": "CLE",
     "route": 4001,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.2105154206,
+    "longitude": -81.2670578154
   },
   {
     "id": 72,
@@ -1018,8 +1018,8 @@
     "seo": "CHC24",
     "hub": "CMH",
     "route": 3005,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.3298438119,
+    "longitude": -82.9815898125
   },
   {
     "id": 73,
@@ -1032,8 +1032,8 @@
     "seo": "CUH",
     "hub": "CLE",
     "route": 4001,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.3917689222,
+    "longitude": -81.3444310867
   },
   {
     "id": 74,
@@ -1074,8 +1074,8 @@
     "seo": null,
     "hub": "CLE",
     "route": 4000,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.4960944412,
+    "longitude": -81.5646327156
   },
   {
     "id": 77,
@@ -1088,8 +1088,8 @@
     "seo": null,
     "hub": "CLE",
     "route": 4000,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.5012836905,
+    "longitude": -81.6915728732
   },
   {
     "id": 78,
@@ -1116,8 +1116,8 @@
     "seo": null,
     "hub": "DAY",
     "route": 2001,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.4797736763,
+    "longitude": -84.6312752733
   },
   {
     "id": 80,
@@ -1312,8 +1312,8 @@
     "seo": null,
     "hub": "DAY",
     "route": 2002,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.7607950243,
+    "longitude": -84.1877496444
   },
   {
     "id": 94,
@@ -1368,8 +1368,8 @@
     "seo": "DEL",
     "hub": "DAY",
     "route": 2001,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.8435393554,
+    "longitude": -84.3429593309
   },
   {
     "id": 98,
@@ -1424,8 +1424,8 @@
     "seo": "DCP",
     "hub": "TOL",
     "route": 5003,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.9525106452,
+    "longitude": -83.3796061444
   },
   {
     "id": 102,
@@ -1480,8 +1480,8 @@
     "seo": null,
     "hub": "CLE",
     "route": 4000,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.5285943126,
+    "longitude": -81.5846885731
   },
   {
     "id": 106,
@@ -1508,8 +1508,8 @@
     "seo": "GWE",
     "hub": "CVG",
     "route": 1001,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.1272680512,
+    "longitude": -82.9858279308
   },
   {
     "id": 108,
@@ -1536,8 +1536,8 @@
     "seo": "ESB",
     "hub": "DAY",
     "route": 2002,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.7495384516,
+    "longitude": -84.6260480021
   },
   {
     "id": 110,
@@ -1550,8 +1550,8 @@
     "seo": "ESH",
     "hub": "DAY",
     "route": 2002,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.7495384516,
+    "longitude": -84.6260480021
   },
   {
     "id": 111,
@@ -1564,8 +1564,8 @@
     "seo": "ESM",
     "hub": "DAY",
     "route": 2002,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.7495384516,
+    "longitude": -84.6260480021
   },
   {
     "id": 112,
@@ -1578,8 +1578,8 @@
     "seo": "ESE",
     "hub": "DAY",
     "route": 2002,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.7495384516,
+    "longitude": -84.6260480021
   },
   {
     "id": 113,
@@ -1592,8 +1592,8 @@
     "seo": "BEG",
     "hub": "TOL",
     "route": 5002,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.4751479422,
+    "longitude": -84.550106102
   },
   {
     "id": 114,
@@ -1620,8 +1620,8 @@
     "seo": "BED",
     "hub": "TOL",
     "route": 5002,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.4751479422,
+    "longitude": -84.550106102
   },
   {
     "id": 116,
@@ -1788,8 +1788,8 @@
     "seo": "NAF",
     "hub": "TOL",
     "route": 5002,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.391593001,
+    "longitude": -84.1289278156
   },
   {
     "id": 128,
@@ -1802,8 +1802,8 @@
     "seo": "FJP",
     "hub": "TOL",
     "route": 5003,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.8022962931,
+    "longitude": -83.5119443154
   },
   {
     "id": 129,
@@ -1830,8 +1830,8 @@
     "seo": null,
     "hub": "DAY",
     "route": 2002,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.5589892981,
+    "longitude": -84.3025352598
   },
   {
     "id": 131,
@@ -1844,8 +1844,8 @@
     "seo": "FTR",
     "hub": "DAY",
     "route": 2001,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.4136251294,
+    "longitude": -84.7797944204
   },
   {
     "id": 132,
@@ -1858,8 +1858,8 @@
     "seo": null,
     "hub": "CMH",
     "route": 3004,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.7349972609,
+    "longitude": -82.7889970443
   },
   {
     "id": 133,
@@ -1872,8 +1872,8 @@
     "seo": null,
     "hub": "CLE",
     "route": 4004,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.4155818726,
+    "longitude": -81.6038860156
   },
   {
     "id": 134,
@@ -1886,8 +1886,8 @@
     "seo": "GWM",
     "hub": "CVG",
     "route": 1001,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.1272680512,
+    "longitude": -82.9858279308
   },
   {
     "id": 135,
@@ -1984,8 +1984,8 @@
     "seo": null,
     "hub": "DAY",
     "route": 2002,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.6259791063,
+    "longitude": -84.3721639309
   },
   {
     "id": 142,
@@ -2040,8 +2040,8 @@
     "seo": "GNA",
     "hub": "CLE",
     "route": 4001,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.3596890871,
+    "longitude": -81.4366756019
   },
   {
     "id": 146,
@@ -2096,8 +2096,8 @@
     "seo": "GVP",
     "hub": "CLE",
     "route": 4004,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.5355614927,
+    "longitude": -80.8665234731
   },
   {
     "id": 150,
@@ -2110,8 +2110,8 @@
     "seo": null,
     "hub": "TOL",
     "route": 5001,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.2591872103,
+    "longitude": -83.0523618732
   },
   {
     "id": 151,
@@ -2124,8 +2124,8 @@
     "seo": null,
     "hub": "DAY",
     "route": 2004,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.692922603,
+    "longitude": -84.0344392733
   },
   {
     "id": 152,
@@ -2166,8 +2166,8 @@
     "seo": "WIG",
     "hub": "CLE",
     "route": 4002,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.0288205326,
+    "longitude": -82.5197249444
   },
   {
     "id": 155,
@@ -2264,8 +2264,8 @@
     "seo": "DUU",
     "hub": "TOL",
     "route": 5003,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.7890755858,
+    "longitude": -83.6437784443
   },
   {
     "id": 162,
@@ -2292,8 +2292,8 @@
     "seo": null,
     "hub": "CLE",
     "route": 4007,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.7380163191,
+    "longitude": -80.7666680444
   },
   {
     "id": 164,
@@ -2446,8 +2446,8 @@
     "seo": null,
     "hub": "CLE",
     "route": 4004,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.1568986479,
+    "longitude": -80.5773799732
   },
   {
     "id": 175,
@@ -2488,8 +2488,8 @@
     "seo": "WIL",
     "hub": "CLE",
     "route": 4002,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.0554784283,
+    "longitude": -82.7264844732
   },
   {
     "id": 178,
@@ -2628,8 +2628,8 @@
     "seo": "KLS",
     "hub": "CMH",
     "route": 3002,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.6484842808,
+    "longitude": -81.8489034444
   },
   {
     "id": 188,
@@ -2670,8 +2670,8 @@
     "seo": "KLK",
     "hub": "CMH",
     "route": 3002,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.6484842808,
+    "longitude": -81.8489034444
   },
   {
     "id": 191,
@@ -2740,78 +2740,78 @@
     "seo": null,
     "hub": "CLE",
     "route": 4007,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.6193686737,
+    "longitude": -81.3569215732
   },
   {
     "id": 196,
     "libid": "16300",
     "name": "LCL 24 Hour Kiosk Legacy Park Hanover",
-    "address": "101 West Main Street",
+    "address": "101 West Main St",
     "city": "Newark",
     "state": "OH",
     "zip": 43055,
     "seo": "LLP",
     "hub": "CMH",
     "route": 3003,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.0590300036,
+    "longitude": -82.4058612192
   },
   {
     "id": 197,
     "libid": "16300",
     "name": "LCL 24-Hour Kiosk COTC Pataskala Campus",
-    "address": "101 West Main Street",
+    "address": "101 West Main St",
     "city": "Newark",
     "state": "OH",
     "zip": 43055,
     "seo": "LBR",
     "hub": "CMH",
     "route": 3003,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.0590300036,
+    "longitude": -82.4058612192
   },
   {
     "id": 198,
     "libid": "16300",
     "name": "LCL Bookmobile",
-    "address": "101 West Main Street",
+    "address": "101 West Main St",
     "city": "Newark",
     "state": "OH",
     "zip": 43055,
     "seo": "LBO",
     "hub": "CMH",
     "route": 3003,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.0590300036,
+    "longitude": -82.4058612192
   },
   {
     "id": 199,
     "libid": "16300",
     "name": "LCL Buckeye Lake",
-    "address": "101 West Main Street",
+    "address": "101 West Main St",
     "city": "Newark",
     "state": "OH",
     "zip": 43055,
     "seo": "LBU",
     "hub": "CMH",
     "route": 3003,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.0590300036,
+    "longitude": -82.4058612192
   },
   {
     "id": 200,
     "libid": "16300",
     "name": "LCL Downtown Newark",
-    "address": "101 West Main Street",
+    "address": "101 West Main St",
     "city": "Newark",
     "state": "OH",
     "zip": 43055,
     "seo": "LNE",
     "hub": "CMH",
     "route": 3003,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.0590300036,
+    "longitude": -82.4058612192
   },
   {
     "id": 201,
@@ -2824,22 +2824,22 @@
     "seo": "LDU",
     "hub": "CMH",
     "route": 3003,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.0590300036,
+    "longitude": -82.4058612192
   },
   {
     "id": 202,
     "libid": "16300",
     "name": "LCL Hebron",
-    "address": "101 West Main Street",
+    "address": "101 West Main St",
     "city": "Newark",
     "state": "OH",
     "zip": 43055,
     "seo": "LHE",
     "hub": "CMH",
     "route": 3003,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.0590300036,
+    "longitude": -82.4058612192
   },
   {
     "id": 203,
@@ -2866,8 +2866,8 @@
     "seo": "LUD",
     "hub": "CMH",
     "route": 3008,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.0590300036,
+    "longitude": -82.4058612192
   },
   {
     "id": 205,
@@ -2880,8 +2880,8 @@
     "seo": "LUT",
     "hub": "CMH",
     "route": 3008,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.2349758783,
+    "longitude": -82.4529028308
   },
   {
     "id": 206,
@@ -2894,22 +2894,22 @@
     "seo": "LMD",
     "hub": "CMH",
     "route": 3003,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.0590300036,
+    "longitude": -82.4058612192
   },
   {
     "id": 207,
     "libid": "16300",
     "name": "LCL West Newark Emerson R. Miller",
-    "address": "101 West Main Street",
+    "address": "101 West Main St",
     "city": "Newark",
     "state": "OH",
     "zip": 43055,
     "seo": "LMI",
     "hub": "CMH",
     "route": 3003,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.0590300036,
+    "longitude": -82.4058612192
   },
   {
     "id": 208,
@@ -2992,8 +2992,8 @@
     "seo": null,
     "hub": "CVG",
     "route": 1005,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.3834409147,
+    "longitude": -84.560626902
   },
   {
     "id": 214,
@@ -3006,8 +3006,8 @@
     "seo": null,
     "hub": "CVG",
     "route": 1004,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.4333752707,
+    "longitude": -84.2091134731
   },
   {
     "id": 215,
@@ -3090,8 +3090,8 @@
     "seo": null,
     "hub": "DAY",
     "route": 2003,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.7406873449,
+    "longitude": -84.1152385309
   },
   {
     "id": 221,
@@ -3118,8 +3118,8 @@
     "seo": null,
     "hub": "CMH",
     "route": 3006,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.5402291041,
+    "longitude": -82.4052451733
   },
   {
     "id": 223,
@@ -3132,8 +3132,8 @@
     "seo": null,
     "hub": "CLE",
     "route": 4008,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.4647795344,
+    "longitude": -82.1772266021
   },
   {
     "id": 224,
@@ -3188,8 +3188,8 @@
     "seo": "PEL",
     "hub": "TOL",
     "route": 5001,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.4126229792,
+    "longitude": -83.4565495965
   },
   {
     "id": 228,
@@ -3216,8 +3216,8 @@
     "seo": null,
     "hub": "TOL",
     "route": 5003,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.6487941029,
+    "longitude": -83.6046690309
   },
   {
     "id": 230,
@@ -3237,15 +3237,15 @@
     "id": 231,
     "libid": "16300",
     "name": "Main Drive-up Window-Licking Co. Library",
-    "address": "101 West Main Street",
+    "address": "101 West Main St",
     "city": "Newark",
     "state": "OH",
     "zip": 43055,
     "seo": "LDU",
     "hub": "CMH",
     "route": 3008,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.0590300036,
+    "longitude": -82.4058612192
   },
   {
     "id": 232,
@@ -3314,8 +3314,8 @@
     "seo": "PLM",
     "hub": "TOL",
     "route": 5001,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.540479209,
+    "longitude": -82.7331267021
   },
   {
     "id": 237,
@@ -3328,8 +3328,8 @@
     "seo": "PCM",
     "hub": "TOL",
     "route": 5001,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.540479209,
+    "longitude": -82.7330408714
   },
   {
     "id": 238,
@@ -3342,8 +3342,8 @@
     "seo": "GTS",
     "hub": "DAY",
     "route": 2002,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.6486462586,
+    "longitude": -84.5291300731
   },
   {
     "id": 239,
@@ -3370,8 +3370,8 @@
     "seo": null,
     "hub": "CMH",
     "route": 3004,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.8831677438,
+    "longitude": -82.6622694174
   },
   {
     "id": 241,
@@ -3412,8 +3412,8 @@
     "seo": null,
     "hub": "CLE",
     "route": 4005,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.7979385277,
+    "longitude": -81.5200392867
   },
   {
     "id": 244,
@@ -3426,8 +3426,8 @@
     "seo": null,
     "hub": "CLE",
     "route": 4006,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.5559486344,
+    "longitude": -81.4407955597
   },
   {
     "id": 245,
@@ -3440,8 +3440,8 @@
     "seo": "NAM",
     "hub": "TOL",
     "route": 5002,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.391593001,
+    "longitude": -84.1289278156
   },
   {
     "id": 246,
@@ -3468,8 +3468,8 @@
     "seo": null,
     "hub": "CLE",
     "route": 4004,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.1810368263,
+    "longitude": -80.7660293732
   },
   {
     "id": 248,
@@ -3482,8 +3482,8 @@
     "seo": "MEC",
     "hub": "DAY",
     "route": 2003,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.0708578149,
+    "longitude": -83.5541641868
   },
   {
     "id": 249,
@@ -3510,8 +3510,8 @@
     "seo": null,
     "hub": "CMH",
     "route": 3006,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.02608338,
+    "longitude": -82.0369564579
   },
   {
     "id": 251,
@@ -3552,8 +3552,8 @@
     "seo": null,
     "hub": "CLE",
     "route": 4000,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.6654920062,
+    "longitude": -81.3467274309
   },
   {
     "id": 254,
@@ -3566,8 +3566,8 @@
     "seo": "MCC",
     "hub": "DAY",
     "route": 2001,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.5514377674,
+    "longitude": -84.5714020695
   },
   {
     "id": 255,
@@ -3594,8 +3594,8 @@
     "seo": null,
     "hub": "CLE",
     "route": 4005,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.3707022142,
+    "longitude": -81.8168746154
   },
   {
     "id": 257,
@@ -3608,8 +3608,8 @@
     "seo": null,
     "hub": "CLE",
     "route": 4008,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.2979022303,
+    "longitude": -82.6047165443
   },
   {
     "id": 258,
@@ -3650,8 +3650,8 @@
     "seo": "MCL",
     "hub": "TOL",
     "route": 5003,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.948518363,
+    "longitude": -83.1696842308
   },
   {
     "id": 261,
@@ -3720,8 +3720,8 @@
     "seo": null,
     "hub": "CMH",
     "route": 3008,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.3960567521,
+    "longitude": -82.4868558731
   },
   {
     "id": 266,
@@ -3734,8 +3734,8 @@
     "seo": null,
     "hub": "CMH",
     "route": 3004,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.5490682534,
+    "longitude": -82.8269928021
   },
   {
     "id": 267,
@@ -3748,8 +3748,8 @@
     "seo": "CHL",
     "hub": "CMH",
     "route": 3005,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.3298438119,
+    "longitude": -82.9815898125
   },
   {
     "id": 268,
@@ -3776,8 +3776,8 @@
     "seo": "MSL",
     "hub": "CMH",
     "route": 3004,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.71876184,
+    "longitude": -83.2666205156
   },
   {
     "id": 270,
@@ -3818,8 +3818,8 @@
     "seo": "NAP",
     "hub": "TOL",
     "route": 5002,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.391593001,
+    "longitude": -84.1289278156
   },
   {
     "id": 273,
@@ -3846,8 +3846,8 @@
     "seo": null,
     "hub": "CMH",
     "route": 3006,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.4610312782,
+    "longitude": -82.2339587309
   },
   {
     "id": 275,
@@ -3860,8 +3860,8 @@
     "seo": null,
     "hub": "DAY",
     "route": 2001,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.435896165,
+    "longitude": -84.3802620444
   },
   {
     "id": 276,
@@ -3874,8 +3874,8 @@
     "seo": "NCP",
     "hub": "DAY",
     "route": 2003,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.9415253731,
+    "longitude": -84.023655802
   },
   {
     "id": 277,
@@ -3888,8 +3888,8 @@
     "seo": "NLL",
     "hub": "CLE",
     "route": 4002,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.084129263,
+    "longitude": -82.3984258444
   },
   {
     "id": 278,
@@ -3902,8 +3902,8 @@
     "seo": "NMA",
     "hub": "DAY",
     "route": 2001,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.9671425656,
+    "longitude": -84.7108814617
   },
   {
     "id": 279,
@@ -3916,8 +3916,8 @@
     "seo": "WCN",
     "hub": "CMH",
     "route": 3007,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.5247610447,
+    "longitude": -81.0605402309
   },
   {
     "id": 280,
@@ -3958,8 +3958,8 @@
     "seo": null,
     "hub": "CLE",
     "route": 4004,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.1867140856,
+    "longitude": -80.9800599731
   },
   {
     "id": 283,
@@ -4000,8 +4000,8 @@
     "seo": "NBA",
     "hub": "TOL",
     "route": 5003,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.1841987671,
+    "longitude": -83.6779206579
   },
   {
     "id": 286,
@@ -4042,8 +4042,8 @@
     "seo": "WIN24",
     "hub": "CLE",
     "route": 4002,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.1037455362,
+    "longitude": -82.6108076732
   },
   {
     "id": 289,
@@ -4056,8 +4056,8 @@
     "seo": "WIN",
     "hub": "CLE",
     "route": 4002,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.1037455362,
+    "longitude": -82.6108076732
   },
   {
     "id": 290,
@@ -4112,8 +4112,8 @@
     "seo": null,
     "hub": "CLE",
     "route": 4008,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.242061961,
+    "longitude": -82.6175629732
   },
   {
     "id": 294,
@@ -4126,8 +4126,8 @@
     "seo": "OHH",
     "hub": "TOL",
     "route": 5001,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.5087216799,
+    "longitude": -83.1464814413
   },
   {
     "id": 295,
@@ -4196,8 +4196,8 @@
     "seo": null,
     "hub": "CLE",
     "route": 4002,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.8422826251,
+    "longitude": -81.7635748156
   },
   {
     "id": 300,
@@ -4280,8 +4280,8 @@
     "seo": null,
     "hub": "CLE",
     "route": 4002,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.3931546474,
+    "longitude": -81.7603294021
   },
   {
     "id": 306,
@@ -4308,8 +4308,8 @@
     "seo": null,
     "hub": "TOL",
     "route": 5002,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.1363327696,
+    "longitude": -84.5791773308
   },
   {
     "id": 308,
@@ -4334,7 +4334,7 @@
     "state": "OH",
     "zip": 45660,
     "seo": "ACP",
-    "hub": "CIN",
+    "hub": "CVG",
     "route": 1003,
     "latitude": 38.950706,
     "longitude": -83.40652
@@ -4350,8 +4350,8 @@
     "seo": "PEM",
     "hub": "TOL",
     "route": 5001,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.4126229792,
+    "longitude": -83.4565495965
   },
   {
     "id": 311,
@@ -4392,8 +4392,8 @@
     "seo": "PNL",
     "hub": "CMH",
     "route": 3002,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.714650852,
+    "longitude": -82.2056337731
   },
   {
     "id": 314,
@@ -4420,8 +4420,8 @@
     "seo": "GWP",
     "hub": "CVG",
     "route": 1001,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.1272680512,
+    "longitude": -82.9858279308
   },
   {
     "id": 316,
@@ -4434,8 +4434,8 @@
     "seo": "BPI",
     "hub": "TOL",
     "route": 5002,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.4751479422,
+    "longitude": -84.550106102
   },
   {
     "id": 317,
@@ -4448,8 +4448,8 @@
     "seo": null,
     "hub": "DAY",
     "route": 2003,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.1491328978,
+    "longitude": -84.2402468308
   },
   {
     "id": 318,
@@ -4490,8 +4490,8 @@
     "seo": null,
     "hub": "CLE",
     "route": 4008,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.4476461112,
+    "longitude": -81.9250699444
   },
   {
     "id": 321,
@@ -4504,8 +4504,8 @@
     "seo": null,
     "hub": "CVG",
     "route": 1001,
-    "latitude": null,
-    "longitude": null
+    "latitude": 38.7348326366,
+    "longitude": -82.9886995731
   },
   {
     "id": 322,
@@ -4616,8 +4616,8 @@
     "seo": "PPL",
     "hub": "CLE",
     "route": 4001,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.2716219852,
+    "longitude": -80.9958485443
   },
   {
     "id": 330,
@@ -4644,8 +4644,8 @@
     "seo": "ADP",
     "hub": "CLE",
     "route": 4004,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.6075388166,
+    "longitude": -80.5730520169
   },
   {
     "id": 332,
@@ -4672,8 +4672,8 @@
     "seo": null,
     "hub": "CLE",
     "route": 4006,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.5544832099,
+    "longitude": -81.4951117021
   },
   {
     "id": 334,
@@ -4686,8 +4686,8 @@
     "seo": "RNU",
     "hub": "CMH",
     "route": 3004,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.4265243251,
+    "longitude": -83.2961667021
   },
   {
     "id": 335,
@@ -4700,8 +4700,8 @@
     "seo": "HRP",
     "hub": "TOL",
     "route": 5003,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.5344244998,
+    "longitude": -83.5199705593
   },
   {
     "id": 336,
@@ -4714,8 +4714,8 @@
     "seo": "HRR",
     "hub": "TOL",
     "route": 5003,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.5344244998,
+    "longitude": -83.5199705593
   },
   {
     "id": 337,
@@ -4756,8 +4756,8 @@
     "seo": "ROC",
     "hub": "DAY",
     "route": 2001,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.6911223191,
+    "longitude": -84.6460419732
   },
   {
     "id": 340,
@@ -4896,8 +4896,8 @@
     "seo": null,
     "hub": "CVG",
     "route": 1004,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.4904002742,
+    "longitude": -83.635965202
   },
   {
     "id": 350,
@@ -4910,8 +4910,8 @@
     "seo": null,
     "hub": "CLE",
     "route": 4003,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.9007908847,
+    "longitude": -80.8493147732
   },
   {
     "id": 351,
@@ -4938,8 +4938,8 @@
     "seo": null,
     "hub": "CLE",
     "route": 4008,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.4533909272,
+    "longitude": -82.7106759731
   },
   {
     "id": 353,
@@ -4952,8 +4952,8 @@
     "seo": "BCS",
     "hub": "CVG",
     "route": 1002,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.0046467383,
+    "longitude": -83.808888802
   },
   {
     "id": 354,
@@ -4994,8 +4994,8 @@
     "seo": null,
     "hub": "CMH",
     "route": 3008,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.4805552741,
+    "longitude": -82.6838038021
   },
   {
     "id": 357,
@@ -5008,8 +5008,8 @@
     "seo": "ATT",
     "hub": "TOL",
     "route": 5001,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.065529907,
+    "longitude": -82.8873776597
   },
   {
     "id": 358,
@@ -5022,8 +5022,8 @@
     "seo": "MSH",
     "hub": "CMH",
     "route": 3007,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.9698074947,
+    "longitude": -80.7518191444
   },
   {
     "id": 359,
@@ -5104,7 +5104,7 @@
     "state": "OH",
     "zip": 45681,
     "seo": "CHS",
-    "hub": "COL",
+    "hub": "CMH",
     "route": 3005,
     "latitude": 39.335106,
     "longitude": -83.31005
@@ -5120,8 +5120,8 @@
     "seo": null,
     "hub": "CLE",
     "route": 4004,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.3939350965,
+    "longitude": -81.5341651444
   },
   {
     "id": 366,
@@ -5190,8 +5190,8 @@
     "seo": "MCS",
     "hub": "DAY",
     "route": 2001,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.417492869,
+    "longitude": -84.6384484066
   },
   {
     "id": 371,
@@ -5218,8 +5218,8 @@
     "seo": null,
     "hub": "DAY",
     "route": 2001,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.3933949177,
+    "longitude": -84.3769031443
   },
   {
     "id": 373,
@@ -5246,8 +5246,8 @@
     "seo": null,
     "hub": "CMH",
     "route": 3003,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.9815309833,
+    "longitude": -82.9960155021
   },
   {
     "id": 375,
@@ -5260,8 +5260,8 @@
     "seo": "STE",
     "hub": "CLE",
     "route": 4001,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.3553197238,
+    "longitude": -80.6182304444
   },
   {
     "id": 376,
@@ -5274,8 +5274,8 @@
     "seo": "STK",
     "hub": "CLE",
     "route": 4001,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.3553197238,
+    "longitude": -80.6182304444
   },
   {
     "id": 377,
@@ -5288,8 +5288,8 @@
     "seo": "PES",
     "hub": "TOL",
     "route": 5001,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.4126229792,
+    "longitude": -83.4565495965
   },
   {
     "id": 378,
@@ -5344,8 +5344,8 @@
     "seo": "BST",
     "hub": "TOL",
     "route": 5002,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.4751479422,
+    "longitude": -84.550106102
   },
   {
     "id": 382,
@@ -5428,8 +5428,8 @@
     "seo": null,
     "hub": "CMH",
     "route": 3006,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.3683113429,
+    "longitude": -82.1322045308
   },
   {
     "id": 388,
@@ -5484,8 +5484,8 @@
     "seo": "TCP",
     "hub": "DAY",
     "route": 2003,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.961707564,
+    "longitude": -84.1708926443
   },
   {
     "id": 392,
@@ -5526,8 +5526,8 @@
     "seo": null,
     "hub": "DAY",
     "route": 2003,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.041953295,
+    "longitude": -84.2073633444
   },
   {
     "id": 395,
@@ -5666,8 +5666,8 @@
     "seo": "USC",
     "hub": "TOL",
     "route": 5003,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.830845827,
+    "longitude": -83.2809430732
   },
   {
     "id": 405,
@@ -5792,8 +5792,8 @@
     "seo": "WPL",
     "hub": "TOL",
     "route": 5002,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.5496903231,
+    "longitude": -84.1408301019
   },
   {
     "id": 414,
@@ -5806,8 +5806,8 @@
     "seo": "WAY",
     "hub": "TOL",
     "route": 5003,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.5578308977,
+    "longitude": -83.6276308789
   },
   {
     "id": 415,
@@ -5988,8 +5988,8 @@
     "seo": "BWU",
     "hub": "TOL",
     "route": 5002,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.4751479422,
+    "longitude": -84.550106102
   },
   {
     "id": 428,
@@ -6002,8 +6002,8 @@
     "seo": "GWW",
     "hub": "CVG",
     "route": 1001,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.1272680512,
+    "longitude": -82.9858279308
   },
   {
     "id": 429,
@@ -6016,8 +6016,8 @@
     "seo": null,
     "hub": "CMH",
     "route": 3003,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.1230330781,
+    "longitude": -82.9298412731
   },
   {
     "id": 430,
@@ -6058,8 +6058,8 @@
     "seo": "BBR",
     "hub": "TOL",
     "route": 5002,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.4751479422,
+    "longitude": -84.550106102
   },
   {
     "id": 433,
@@ -6072,8 +6072,8 @@
     "seo": null,
     "hub": "CLE",
     "route": 4000,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.6626544597,
+    "longitude": -81.4368270732
   },
   {
     "id": 434,
@@ -6083,11 +6083,11 @@
     "city": "Wilmington",
     "state": "OH",
     "zip": 45177,
-    "seo": "WML",
+    "seo": null,
     "hub": "CVG",
     "route": 1004,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.4492564966,
+    "longitude": -83.8277443868
   },
   {
     "id": 435,
@@ -6100,8 +6100,8 @@
     "seo": null,
     "hub": "CVG",
     "route": 1004,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.4492564966,
+    "longitude": -83.8277443868
   },
   {
     "id": 436,
@@ -6114,8 +6114,8 @@
     "seo": "WOK",
     "hub": "TOL",
     "route": 5002,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.3766063951,
+    "longitude": -83.6510304444
   },
   {
     "id": 437,
@@ -6128,8 +6128,8 @@
     "seo": "WOD",
     "hub": "TOL",
     "route": 5002,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.3766063951,
+    "longitude": -83.6510304444
   },
   {
     "id": 438,
@@ -6142,8 +6142,8 @@
     "seo": null,
     "hub": "TOL",
     "route": 5001,
-    "latitude": null,
-    "longitude": null
+    "latitude": 41.4503980357,
+    "longitude": -83.3630657577
   },
   {
     "id": 439,
@@ -6156,8 +6156,8 @@
     "seo": null,
     "hub": "DAY",
     "route": 2001,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.2156470345,
+    "longitude": -84.4854250021
   },
   {
     "id": 440,
@@ -6184,8 +6184,8 @@
     "seo": null,
     "hub": "DAY",
     "route": 2004,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.7158365957,
+    "longitude": -84.1711406731
   },
   {
     "id": 442,
@@ -6212,8 +6212,8 @@
     "seo": "MCM",
     "hub": "DAY",
     "route": 2001,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.4373861948,
+    "longitude": -84.4930977156
   },
   {
     "id": 444,
@@ -6226,7 +6226,7 @@
     "seo": "CHZ24",
     "hub": "CMH",
     "route": 3005,
-    "latitude": null,
-    "longitude": null
+    "latitude": 39.3298438119,
+    "longitude": -82.9815898125
   }
 ]
