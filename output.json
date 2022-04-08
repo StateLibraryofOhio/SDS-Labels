@@ -311,15 +311,15 @@
     "id": 22,
     "libid": "52003",
     "name": "Bay Village",
-    "address": "502 Cahoon Road",
+    "address": "27400 Wolf Road",
     "city": "Bay Village",
     "state": "OH",
     "zip": 44140,
     "seo": null,
     "hub": "CLE",
     "route": 4008,
-    "latitude": 41.483044,
-    "longitude": -81.924225
+    "latitude": 41.48596827,
+    "longitude": -81.92307667
   },
   {
     "id": 23,
