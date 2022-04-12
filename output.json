@@ -6076,6 +6076,20 @@
     "longitude": null
   },
   {
+    "id": 435,
+    "libid": "24300",
+    "name": "Wilmington P. L. of Clinton Co.",
+    "address": "268 N South Street",
+    "city": "Wilmington",
+    "state": "OH",
+    "zip": 45177,
+    "seo": null,
+    "hub": "CVG",
+    "route": 1004,
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "id": 436,
     "libid": "2900",
     "name": "Wood County Bookmobile",
