@@ -6214,6 +6214,20 @@
     "route": 3008,
     "latitude": 40.635563,
     "longitude": -82.23247
+  },
+  {
+    "id": 447,
+    "libid": "3200",
+    "name": "Williams County Lockers",
+    "address": "107 E High Street",
+    "city": "Bryan",
+    "state": "OH",
+    "zip": 43506,
+    "seo": "BBL",
+    "hub": "TOL",
+    "route": 5002,
+    "latitude": 41.475147942216815,
+    "longitude": -84.55010610199938
   }
   
 ]
