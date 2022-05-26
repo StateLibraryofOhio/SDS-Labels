@@ -2814,20 +2814,6 @@
     "longitude": -82.40586122
   },
   {
-    "id": 201,
-    "libid": "16300",
-    "name": "LCL Downtown Newark Driveup",
-    "address": "101 West Main St",
-    "city": "Newark",
-    "state": "OH",
-    "zip": 43055,
-    "seo": "LDU",
-    "hub": "CMH",
-    "route": 3003,
-    "latitude": 40.05903,
-    "longitude": -82.40586122
-  },
-  {
     "id": 202,
     "libid": "16300",
     "name": "LCL Hebron",
