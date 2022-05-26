@@ -6228,6 +6228,20 @@
     "route": 5002,
     "latitude": 41.475147942216815,
     "longitude": -84.55010610199938
+  },
+  {
+    "id": 448,
+    "libid": "12903",
+    "name": "Adams County Outreach",
+    "address": "157 High St.",
+    "city": "Peebles",
+    "state": "OH",
+    "zip": 45660,
+    "seo": "ACO",
+    "hub": "CVG",
+    "route": 1003,
+    "latitude": 38.950706,
+    "longitude": -83.40652
   }
   
 ]
