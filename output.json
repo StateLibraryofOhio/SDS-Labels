@@ -742,20 +742,6 @@
     "longitude": -82.98160521596519
   },
   {
-    "id": 53,
-    "libid": "4800",
-    "name": "CRCPL Special Services",
-    "address": "Box 185, 140-146 S Paint Street",
-    "city": "Chillicothe",
-    "state": "OH",
-    "zip": 45601,
-    "seo": "CHV",
-    "hub": "CMH",
-    "route": 3005,
-    "latitude": 39.32981787721419,
-    "longitude": -82.98160521596519
-  },
-  {
     "id": 54,
     "libid": "4800",
     "name": "CRCPL Van",
