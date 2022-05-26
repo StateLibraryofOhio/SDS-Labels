@@ -6200,5 +6200,20 @@
     "route": 5003,
     "latitude": 41.55783089766016,
     "longitude": -83.62763087886704
+  },
+  {
+    "id": 446,
+    "libid": "12600",
+    "name": "Loudonville 24 Hour Kiosk",
+    "address": "122 East Main Street",
+    "city": "Loudonville",
+    "state": "OH",
+    "zip": 44842,
+    "seo": "LOU24",
+    "hub": "CMH",
+    "route": 3008,
+    "latitude": 40.635563,
+    "longitude": -82.23247
   }
+  
 ]
