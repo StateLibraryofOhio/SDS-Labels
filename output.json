@@ -6186,5 +6186,19 @@
     "route": 3005,
     "latitude": 39.32984381190369,
     "longitude": -82.98158981248413
+  },
+    {
+    "id": 445,
+    "libid": "18300",
+    "name": "Way Schools",
+    "address": "101 E. Indiana Avenue",
+    "city": "Perrysburg",
+    "state": "OH",
+    "zip": 43551,
+    "seo": "WAS",
+    "hub": "TOL",
+    "route": 5003,
+    "latitude": 41.55783089766016,
+    "longitude": -83.62763087886704
   }
 ]
