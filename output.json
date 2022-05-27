@@ -4550,20 +4550,6 @@
     "longitude": -84.55282
   },
   {
-    "id": 328,
-    "libid": "34264",
-    "name": "Preble Shawnee Schools-West Elkton",
-    "address": "5495 Somers Gratis Rd",
-    "city": "Camden",
-    "state": "OH",
-    "zip": 45311,
-    "seo": "PSW",
-    "hub": "DAY",
-    "route": 2002,
-    "latitude": 39.62611,
-    "longitude": -84.55282
-  },
-  {
     "id": 329,
     "libid": "3500",
     "name": "Puskarich P. L.",
