@@ -45,3 +45,5 @@ If the JSON structure is malformed, the entries will __not__ populate the dropdo
     "longitude": "-82.99600477"
   }
 ```
+
+The `output.json` content may occasionally need to be updated to add entries as new libraries enter the program.  When adding a new library, append their new entry to the end of the `output.json` file and increment the previous entry's `id` value by "1" to get the value for your new entry.  It is not necessary for new entries to be sorted alphabetically in the output.json file; the libraries will be displayed alphabetically in the web form.  The critical thing to remember is that the `id` value must be unique.
