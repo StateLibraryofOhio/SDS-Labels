@@ -3206,20 +3206,6 @@
     "longitude": -81.06809
   },
   {
-    "id": 231,
-    "libid": "16300",
-    "name": "Main Drive-up Window-Licking Co. Library",
-    "address": "101 West Main Street",
-    "city": "Newark",
-    "state": "OH",
-    "zip": 43055,
-    "seo": "LDU",
-    "hub": "CMH",
-    "route": 3008,
-    "latitude": 40.05903,
-    "longitude": -82.40586122
-  },
-  {
     "id": 232,
     "libid": "4200",
     "name": "Malvern Branch",
