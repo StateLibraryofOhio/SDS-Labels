@@ -6256,6 +6256,20 @@
     "route": 3002,
     "latitude": 39.71465085195329,
     "longitude": -82.20563377312693
+  },
+  {
+    "id": 452,
+    "libid": "201",
+    "name": "Perry Cook Van",
+    "address": "7406 County Road 242",
+    "city": "Mt. Gilead",
+    "state": "OH",
+    "zip": 43338,
+    "seo": "PKV",
+    "hub": "CMH",
+    "route": 3004,
+    "latitude": 40.621025,
+    "longitude": -82.662834
   }
 
 ]
