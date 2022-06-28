@@ -6270,20 +6270,6 @@
     "route": 3004,
     "latitude": 40.621025,
     "longitude": -82.662834
-  },
-  {
-    "id": 453,
-    "libid": "15800",
-    "name": "Perry County District Library Bookmobile",
-    "address": "117 S Jackson Street",
-    "city": "New Lexington",
-    "state": "OH",
-    "zip": 43764,
-    "seo": "PCB",
-    "hub": "CMH",
-    "route": 3002,
-    "latitude": 39.71465085195329,
-    "longitude": -82.20563377312693
   }
 
 ]
