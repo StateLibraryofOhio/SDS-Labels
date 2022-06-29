@@ -6270,6 +6270,20 @@
     "route": 3004,
     "latitude": 40.621025,
     "longitude": -82.662834
+  },
+    {
+    "id": 453,
+    "libid": "22503",
+    "name": "Cridersville Public Library",
+    "address": "116 W. Main Street",
+    "city": "Cridersville",
+    "state": "OH",
+    "zip": 45806,
+    "seo": null,
+    "hub": "DAY",
+    "route": 2003,
+    "latitude": 40.654239741622554,
+    "longitude": -84.14422449720352
   }
 
 ]
