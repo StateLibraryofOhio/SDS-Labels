@@ -2562,20 +2562,6 @@
     "longitude": -82.611565
   },
   {
-    "id": 184,
-    "libid": "34595",
-    "name": "Jefferson Area HS Library",
-    "address": "207 W. Mulberry St.",
-    "city": "Jefferson",
-    "state": "OH",
-    "zip": 44047,
-    "seo": "ADF",
-    "hub": "CLE",
-    "route": 4007,
-    "latitude": 41.730247,
-    "longitude": -80.77114
-  },
-  {
     "id": 185,
     "libid": "6403",
     "name": "Johnson Memorial Library",
