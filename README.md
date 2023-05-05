@@ -42,7 +42,8 @@ If the JSON structure is malformed, the entries will __not__ populate the dropdo
     "hub": "ZZZ",
     "route": 9999,
     "latitude": "39.98153098",
-    "longitude": "-82.99600477"
+    "longitude": "-82.99600477",
+    "is_primary": true
   }
 ```
 
