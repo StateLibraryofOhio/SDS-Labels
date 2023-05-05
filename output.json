@@ -6612,7 +6612,7 @@
     "route": 3008,
     "latitude": 40.635563,
     "longitude": -82.23247,
-    "is_primary": true
+    "is_primary": false
   },
   {
     "id": 447,
