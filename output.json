@@ -1,18 +1,18 @@
 [
   {
     "id": 0,
-    "libid": "40340",
+    "libid": "10900",
     "name": "A-Tech",
-    "address": "1565 St. Rt. 167",
+    "address": "54 E Jefferson Street",
     "city": "Jefferson",
     "state": "OH",
     "zip": 44047,
     "seo": "ADT",
     "hub": "CLE",
     "route": 4007,
-    "latitude": 41.748978,
-    "longitude": -80.73184,
-    "is_primary": true
+    "latitude": 41.73801631913048,
+    "longitude": -80.76666804438635,
+    "is_primary": false
   },
   {
     "id": 1,
