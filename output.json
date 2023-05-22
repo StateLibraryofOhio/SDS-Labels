@@ -2625,21 +2625,6 @@
     "is_primary": true
   },
   {
-    "id": 176,
-    "libid": "4809",
-    "name": "Huntington Branch Library",
-    "address": "188 Huntsman Rd",
-    "city": "Chillicothe",
-    "state": "OH",
-    "zip": 45601,
-    "seo": "CHT",
-    "hub": "CMH",
-    "route": 3005,
-    "latitude": 39.243748,
-    "longitude": -83.05801,
-    "is_primary": true
-  },
-  {
     "id": 177,
     "libid": "24100",
     "name": "Huron County Community Library (Willard)",
