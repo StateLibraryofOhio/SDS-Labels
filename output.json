@@ -2175,21 +2175,6 @@
     "is_primary": true
   },
   {
-    "id": 146,
-    "libid": "9400",
-    "name": "Grafton-Midview Public Library",
-    "address": "983 Main Street",
-    "city": "Grafton",
-    "state": "OH",
-    "zip": 44044,
-    "seo": null,
-    "hub": "CLE",
-    "route": 4008,
-    "latitude": 41.27286,
-    "longitude": -82.05506,
-    "is_primary": true
-  },
-  {
     "id": 147,
     "libid": "23903",
     "name": "Grand Rapids Branch Library",
