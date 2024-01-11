@@ -6689,4 +6689,19 @@
     "longitude": -84.14422449720352,
     "is_primary": true
   }
+    {
+    "id": 454,
+    "libid": "9100",
+    "name": "Germantown PL Words on Wheels",
+    "address": "51 N Plum Street",
+    "city": "Germantown",
+    "state": "OH",
+    "zip": 45327,
+    "seo": "GES",
+    "hub": "DAY",
+    "route": 2002,
+    "latitude": 39.62597910625366,
+    "longitude": -84.37216393094529,
+    "is_primary": true
+  },
 ]
