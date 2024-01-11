@@ -6704,4 +6704,19 @@
     "longitude": -84.37216393094529,
     "is_primary": true
   },
+    {
+    "id": 455,
+    "libid": "4800",
+    "name": "Village of Adelphia Bookhive",
+    "address": "Box 185; 140-146 S Paint Street",
+    "city": "Chillicothe",
+    "state": "OH",
+    "zip": 45601,
+    "seo": "CHA24",
+    "hub": "CMH",
+    "route": 3005,
+    "latitude": 39.32984381190369,
+    "longitude": -82.98158981248413,
+    "is_primary": true
+  },
 ]
