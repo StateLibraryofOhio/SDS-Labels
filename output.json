@@ -6808,5 +6808,20 @@
     "latitude": 40.87050193174736,
     "longitude": -84.58496627324372,
     "is_primary": true
+  },
+  {
+    "id": 269,
+    "libid": "15200",
+    "name": "Mt. Sterling P. L. Lockers",
+    "address": "60 W Columbus Street",
+    "city": "Mt. Sterling",
+    "state": "OH",
+    "zip": 43143,
+    "seo": "MSL24",
+    "hub": "CMH",
+    "route": 3004,
+    "latitude": 39.71876184004658,
+    "longitude": -83.26662051560106,
+    "is_primary": true
   }
 ]
