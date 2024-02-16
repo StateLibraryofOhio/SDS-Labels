@@ -975,21 +975,6 @@
     "is_primary": true
   },
   {
-    "id": 66,
-    "libid": "80800",
-    "name": "Chatfield College",
-    "address": "20918 State Route 251",
-    "city": "St Martin",
-    "state": "OH",
-    "zip": 45118,
-    "seo": "OCC",
-    "hub": "CVG",
-    "route": 1003,
-    "latitude": 39.21471389249773,
-    "longitude": -83.89380337328424,
-    "is_primary": true
-  },
-  {
     "id": 67,
     "libid": "15604",
     "name": "Chauncey Public Library",
@@ -6612,21 +6597,6 @@
     "route": 1003,
     "latitude": 38.950706,
     "longitude": -83.40652,
-    "is_primary": false
-  },
-  {
-    "id": 449,
-    "libid": "80800",
-    "name": "Over The Rhine Branch",
-    "address": "20918 State Route 251",
-    "city": "St Martin",
-    "state": "OH",
-    "zip": 45118,
-    "seo": "OCF",
-    "hub": "CVG",
-    "route": 1003,
-    "latitude": 39.21471389249773,
-    "longitude": -83.89380337328424,
     "is_primary": false
   },
   {
