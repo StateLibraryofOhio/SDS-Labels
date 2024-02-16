@@ -6747,12 +6747,12 @@
     "route": 2001,
     "latitude": 40.87050193174736,
     "longitude": -84.58496627324372,
-    "is_primary": true
+    "is_primary": false
   },
   {
     "id": 458,
     "libid": "22100",
-    "name": "Wilshire Branch, Brumback Library",
+    "name": "Willshire Branch, Brumback Library",
     "address": "215 W Main Street",
     "city": "Van Wert",
     "state": "OH",
@@ -6762,7 +6762,7 @@
     "route": 2001,
     "latitude": 40.87050193174736,
     "longitude": -84.58496627324372,
-    "is_primary": true
+    "is_primary": false
   },
   {
     "id": 459,
@@ -6777,7 +6777,7 @@
     "route": 2001,
     "latitude": 40.87050193174736,
     "longitude": -84.58496627324372,
-    "is_primary": true
+    "is_primary": false
   },
   {
     "id": 460,
@@ -6792,7 +6792,7 @@
     "route": 2001,
     "latitude": 40.87050193174736,
     "longitude": -84.58496627324372,
-    "is_primary": true
+    "is_primary": false
   },
   {
     "id": 461,
@@ -6807,7 +6807,7 @@
     "route": 2001,
     "latitude": 40.87050193174736,
     "longitude": -84.58496627324372,
-    "is_primary": true
+    "is_primary": false
   },
   {
     "id": 269,
@@ -6822,6 +6822,6 @@
     "route": 3004,
     "latitude": 39.71876184004658,
     "longitude": -83.26662051560106,
-    "is_primary": true
+    "is_primary": false
   }
 ]
