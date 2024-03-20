@@ -3060,21 +3060,6 @@
     "is_primary": false
   },
   {
-    "id": 210,
-    "libid": "1200",
-    "name": "Lakeside Junior High",
-    "address": "4335 Park Avenue",
-    "city": "Ashtabula",
-    "state": "OH",
-    "zip": 44004,
-    "seo": "ADI",
-    "hub": "CLE",
-    "route": 4007,
-    "latitude": 41.868305,
-    "longitude": -80.782814,
-    "is_primary": false
-  },
-  {
     "id": 211,
     "libid": "2100",
     "name": "Lakeview Branch",
