@@ -6778,5 +6778,20 @@
     "latitude": 39.71876184004658,
     "longitude": -83.26662051560106,
     "is_primary": false
+   },
+  {
+    "id": 463,
+    "libid": "2100",
+    "name": "Knowlton Lockers",
+    "address": "220 N. Main St",
+    "city": "Bellefontaine",
+    "state": "OH",
+    "zip": 43311,
+    "seo": "LOK",
+    "hub": "DAY",
+    "route": 2003,
+    "latitude": 40.3633,
+    "longitude": -83.75948,
+    "is_primary": true
   }
 ]
