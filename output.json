@@ -6794,4 +6794,19 @@
     "longitude": -83.75948,
     "is_primary": true
   }
+    {
+    "id": 464,
+    "libid": "22506",
+    "name": "White Memorial Library",
+    "address": "108 E. Wapakoneta St.",
+    "city": "Waynesfield",
+    "state": "OH",
+    "zip": 45896,
+    "seo": null,
+    "hub": "DAY",
+    "route": 2003,
+    "latitude": 40.6005, -83.97398,
+    "longitude": -83.97398,
+    "is_primary": true
+  },
 ]
