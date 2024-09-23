@@ -3933,15 +3933,15 @@
     "id": 270,
     "libid": "25000",
     "name": "Muskingum Co. Lib. System",
-    "address": "220 N Fifth Street",
+    "address": "1425 Newark Road",
     "city": "Zanesville",
     "state": "OH",
     "zip": 43701,
     "seo": null,
     "hub": "CMH",
     "route": 3001,
-    "latitude": 39.9437,
-    "longitude": -82.00626,
+    "latitude": 39.9622,
+    "longitude": -82.03247,
     "is_primary": true
   },
   {
