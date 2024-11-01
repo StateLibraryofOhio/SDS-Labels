@@ -6511,17 +6511,17 @@
   },
   {
     "id": 444,
-    "libid": "4800",
-    "name": "Zane Village Lockers",
-    "address": "Box 185; 140-146 S Paint Street",
+    "libid": "4808",
+    "name": "Northside Beehive",
+    "address": "550 Buckeye St.",
     "city": "Chillicothe",
     "state": "OH",
     "zip": 45601,
     "seo": "CHZ24",
     "hub": "CMH",
     "route": 3005,
-    "latitude": 39.32984381190369,
-    "longitude": -82.98158981248413,
+    "latitude": 39.34675696312299,
+    "longitude": -82.99797850966979,
     "is_primary": false
   },
   {
