@@ -2,7 +2,7 @@
   {
     "id": 0,
     "libid": "10900",
-    "name": "A-Tech",
+    "name": "A-Tech",f
     "address": "54 E Jefferson Street",
     "city": "Jefferson",
     "state": "OH",
@@ -5427,21 +5427,6 @@
     "route": 2001,
     "latitude": 40.417492869031335,
     "longitude": -84.63844840657805,
-    "is_primary": true
-  },
-  {
-    "id": 371,
-    "libid": "50953",
-    "name": "St. John School",
-    "address": "7911 Depot Rd.",
-    "city": "Ashtabula",
-    "state": "OH",
-    "zip": 44004,
-    "seo": "ADS",
-    "hub": "CLE",
-    "route": 4007,
-    "latitude": 41.825905,
-    "longitude": -80.87077,
     "is_primary": true
   },
   {
