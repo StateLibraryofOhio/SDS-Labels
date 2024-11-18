@@ -6285,21 +6285,6 @@
     "is_primary": false
   },
   {
-    "id": 429,
-    "libid": "23700",
-    "name": "Westerville Public Library",
-    "address": "126 S. State St.",
-    "city": "Westerville",
-    "state": "OH",
-    "zip": 43081,
-    "seo": null,
-    "hub": "CMH",
-    "route": 3003,
-    "latitude": 40.12303307814756,
-    "longitude": -82.92984127311733,
-    "is_primary": true
-  },
-  {
     "id": 430,
     "libid": "23900",
     "name": "Weston P. L.",
