@@ -6778,5 +6778,20 @@
     "latitude": 40.6005,
     "longitude": -83.97398,
     "is_primary": true
+  },
+    {
+    "id": 465,
+    "libid": "800",
+    "name": "Central Library Consortium",
+    "address": "400 W. Johnstown Road",
+    "city": "Gahanna",
+    "state": "OH",
+    "zip": 43230,
+    "seo": null,
+    "hub": "CMH",
+    "route": 3003,
+    "latitude": 40.01759,
+    "longitude": -82.89240,
+    "is_primary": true
   }
 ]
