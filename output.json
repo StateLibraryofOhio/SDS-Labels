@@ -6792,6 +6792,6 @@
     "route": 3003,
     "latitude": 40.01759,
     "longitude": -82.89240,
-    "is_primary": true
+    "is_primary": false
   }
 ]
