@@ -3270,36 +3270,6 @@
     "is_primary": true
   },
   {
-    "id": 225,
-    "libid": "12700",
-    "name": "Louisville Lockers",
-    "address": "700 Lincoln Ave",
-    "city": "Louisville",
-    "state": "OH",
-    "zip": 44641,
-    "seo": "LSL",
-    "hub": "CLE",
-    "route": 4003,
-    "latitude": 40.840397,
-    "longitude": -81.25525,
-    "is_primary": false
-  },
-  {
-    "id": 226,
-    "libid": "12700",
-    "name": "Louisville P. L.",
-    "address": "700 Lincoln Ave",
-    "city": "Louisville",
-    "state": "OH",
-    "zip": 44641,
-    "seo": "LSV",
-    "hub": "CLE",
-    "route": 4003,
-    "latitude": 40.840397,
-    "longitude": -81.25525,
-    "is_primary": true
-  },
-  {
     "id": 227,
     "libid": "18000",
     "name": "Luckey Branch",
