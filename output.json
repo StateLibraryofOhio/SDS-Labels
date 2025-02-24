@@ -1770,21 +1770,6 @@
     "is_primary": false
   },
   {
-    "id": 120,
-    "libid": "7800",
-    "name": "Euclid P. L.",
-    "address": "631 E 222nd Street",
-    "city": "Euclid",
-    "state": "OH",
-    "zip": 44123,
-    "seo": null,
-    "hub": "CLE",
-    "route": 4000,
-    "latitude": 41.59759,
-    "longitude": -81.52679,
-    "is_primary": true
-  },
-  {
     "id": 121,
     "libid": "14300",
     "name": "Evergreen Community Library",
