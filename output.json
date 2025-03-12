@@ -3255,6 +3255,21 @@
     "is_primary": true
   },
   {
+    "id": 226,
+    "libid": "12700",
+    "name": "Louisville P.L.",
+    "address": "1600 Nickelplate Street",
+    "city": "Louisville",
+    "state": "OH",
+    "zip": 44641,
+    "seo": "LSV",
+    "hub": "CLE",
+    "route": 4003,
+    "latitude": 40.82356,
+    "longitude": -81.24999,
+    "is_primary": true
+  },
+  {
     "id": 227,
     "libid": "18000",
     "name": "Luckey Branch",
