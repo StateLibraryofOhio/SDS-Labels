@@ -1082,14 +1082,14 @@
   {
     "id": 74,
     "libid": "6800",
-    "name": "Claymont PL-Dennison Branch",
+    "name": "Claymont P. L.-Dennison Branch",
     "address": "215 E 3rd Street",
     "city": "Uhrichsville",
     "state": "OH",
     "zip": 44683,
     "seo": "CDE",
     "hub": "CLE",
-    "route": 4001,
+    "route": 4005,
     "latitude": 40.391285,
     "longitude": -81.34467,
     "is_primary": false
