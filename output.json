@@ -1770,6 +1770,21 @@
     "is_primary": false
   },
   {
+    "id": 120,
+    "libid": "7800",
+    "name": "Euclid P. L.",
+    "address": "475 E 185th Street",
+    "city": "Euclid",
+    "state": "OH",
+    "zip": 44119,
+    "seo": null,
+    "hub": "CLE",
+    "route": 4000,
+    "latitude": 41.59443,
+    "longitude": -81.54932,
+    "is_primary": true
+  },
+  {
     "id": 121,
     "libid": "14300",
     "name": "Evergreen Community Library",
