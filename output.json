@@ -1792,12 +1792,27 @@
     "city": "Metamora",
     "state": "OH",
     "zip": 43540,
-    "seo": null,
+    "seo": "ECL",
     "hub": "TOL",
     "route": 5002,
     "latitude": 41.710724,
     "longitude": -83.91155,
     "is_primary": true
+  },
+    {
+    "id": 466,
+    "libid": "14300",
+    "name": "Evergreen Lockers",
+    "address": "253 Maple St; PO Box E",
+    "city": "Metamora",
+    "state": "OH",
+    "zip": 43540,
+    "seo": "ECL24",
+    "hub": "TOL",
+    "route": 5002,
+    "latitude": 41.710724,
+    "longitude": -83.91155,
+    "is_primary": false
   },
   {
     "id": 122,
