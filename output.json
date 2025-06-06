@@ -1682,16 +1682,16 @@
   {
     "id": 114,
     "libid": "1200",
-    "name": "Edgewood HS - Ashtabula Co DL",
-    "address": "4335 Park Avenue",
-    "city": "Ashtabula",
+    "name": "Edgewood HS - Geneva P.L.",
+    "address": "860 Sherman Street",
+    "city": "Geneva",
     "state": "OH",
-    "zip": 44004,
+    "zip": 44041,
     "seo": "ADE",
     "hub": "CLE",
     "route": 4007,
-    "latitude": 41.868305,
-    "longitude": -80.782814,
+    "latitude": 41.79370,
+    "longitude": -80.94246,
     "is_primary": false
   },
   {
