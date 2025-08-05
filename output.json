@@ -3900,21 +3900,6 @@
     "is_primary": true
   },
   {
-    "id": 267,
-    "libid": "4800",
-    "name": "Mt. Logan Branch",
-    "address": "Box 185, 140-146 S Paint Street",
-    "city": "Chillicothe",
-    "state": "OH",
-    "zip": 45601,
-    "seo": "CHL",
-    "hub": "CMH",
-    "route": 3005,
-    "latitude": 39.32984381190369,
-    "longitude": -82.98158981248413,
-    "is_primary": false
-  },
-  {
     "id": 268,
     "libid": "9099",
     "name": "Mt. Orab Branch Library",
