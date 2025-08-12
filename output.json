@@ -270,21 +270,6 @@
     "is_primary": true
   },
   {
-    "id": 18,
-    "libid": "1500",
-    "name": "Avon Lake P. L.",
-    "address": "32649 Electric Blvd",
-    "city": "Avon Lake",
-    "state": "OH",
-    "zip": 44012,
-    "seo": null,
-    "hub": "CLE",
-    "route": 4008,
-    "latitude": 41.51033,
-    "longitude": -82.013374,
-    "is_primary": true
-  },
-  {
     "id": 19,
     "libid": "1600",
     "name": "Barberton Public Library",
