@@ -2910,21 +2910,6 @@
     "is_primary": false
   },
   {
-    "id": 199,
-    "libid": "16300",
-    "name": "LCL Buckeye Lake",
-    "address": "101 West Main Street",
-    "city": "Newark",
-    "state": "OH",
-    "zip": 43055,
-    "seo": "LBU",
-    "hub": "CMH",
-    "route": 3003,
-    "latitude": 40.05903,
-    "longitude": -82.40586122,
-    "is_primary": false
-  },
-  {
     "id": 200,
     "libid": "16300",
     "name": "LCL Downtown Newark",
