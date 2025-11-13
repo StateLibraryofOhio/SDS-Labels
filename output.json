@@ -6778,5 +6778,20 @@
     "latitude": 40.01759,
     "longitude": -82.89240,
     "is_primary": false
+  },
+  {
+  "id": 466,
+  "libid":  "22700",
+  "name":  "Carnegie P/L Washington C. H. - Bloomingburg Lockers",
+  "address":  "127 S North Street",
+  "city": "Washington C H",
+  "state": "OH",
+  "zip": 43160,
+  "seo": "WBB24",
+  "hub": "CVG",
+  "route": 1004,
+  "latitude": 39.53662371365145,
+  "longitude": -83.43703867321078,
+  "is_primary": false
   }
 ]
