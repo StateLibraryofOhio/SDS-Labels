@@ -2040,36 +2040,6 @@
     "is_primary": true
   },
   {
-    "id": 137,
-    "libid": "1203",
-    "name": "Geneva High School",
-    "address": "860 Sherman Street",
-    "city": "Geneva",
-    "state": "OH",
-    "zip": 44041,
-    "seo": "ADH",
-    "hub": "CLE",
-    "route": 4007,
-    "latitude": 41.794254,
-    "longitude": -80.94129,
-    "is_primary": false
-  },
-  {
-    "id": 138,
-    "libid": "1203",
-    "name": "Geneva Middle School",
-    "address": "860 Sherman Street",
-    "city": "Geneva",
-    "state": "OH",
-    "zip": 44041,
-    "seo": "ADM",
-    "hub": "CLE",
-    "route": 4007,
-    "latitude": 41.794254,
-    "longitude": -80.94129,
-    "is_primary": false
-  },
-  {
     "id": 139,
     "libid": "1203",
     "name": "Geneva Public Library",
@@ -2188,21 +2158,6 @@
     "latitude": 41.409775,
     "longitude": -83.86157,
     "is_primary": true
-  },
-  {
-    "id": 148,
-    "libid": "1200",
-    "name": "Grand River Academy - Ashtabula Co DL",
-    "address": "4335 Park Avenue",
-    "city": "Ashtabula",
-    "state": "OH",
-    "zip": 44004,
-    "seo": "ADR",
-    "hub": "CLE",
-    "route": 4007,
-    "latitude": 41.868305,
-    "longitude": -80.782814,
-    "is_primary": false
   },
   {
     "id": 149,
