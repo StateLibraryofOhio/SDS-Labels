@@ -6748,5 +6748,20 @@
   "latitude": 39.53662371365145,
   "longitude": -83.43703867321078,
   "is_primary": false
+  },
+  {
+  "id": 467,
+  "libid":  "01500",
+  "name":  "Avon Lake Public Library",
+  "address":  "32649 Electric Blvd",
+  "city": "Avon Lake",
+  "state": "OH",
+  "zip": 44012,
+  "seo": "",
+  "hub": "CLE",
+  "route": 4008,
+  "latitude": 41.51004,
+  "longitude": -82.01280,
+  "is_primary": false
   }
 ]
