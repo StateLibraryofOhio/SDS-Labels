@@ -5388,15 +5388,15 @@
     "id": 373,
     "libid": "3900",
     "name": "Stark County District Library",
-    "address": "715 Market Avenue North",
+    "address": "811 Cleveland Avenue NW",
     "city": "Canton",
     "state": "OH",
     "zip": 44702,
     "seo": null,
     "hub": "CLE",
     "route": 4005,
-    "latitude": 40.80292,
-    "longitude": -81.37323,
+    "latitude": 40.80470120401512,
+    "longitude": -81.37517519165284,
     "is_primary": true
   },
   {
