@@ -1728,15 +1728,15 @@
     "id": 117,
     "libid": "7704",
     "name": "Elyria P. L.",
-    "address": "1219 Taylor Street",
+    "address": "1194 West River Rd North",
     "city": "Elyria",
     "state": "OH",
     "zip": 44035,
     "seo": null,
     "hub": "CLE",
     "route": 4008,
-    "latitude": 41.371643,
-    "longitude": -82.071915,
+    "latitude": 41.3905838,
+    "longitude": -82.1057232,
     "is_primary": true
   },
   {
