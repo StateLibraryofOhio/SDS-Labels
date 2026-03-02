@@ -1818,15 +1818,15 @@
     "id": 122,
     "libid": "7900",
     "name": "Fairport Harbor P. L.",
-    "address": "335 Vine Street",
+    "address": "435 New Fourth Street",
     "city": "Fairport Harbor",
     "state": "OH",
     "zip": 44077,
     "seo": null,
     "hub": "CLE",
     "route": 4007,
-    "latitude": 41.754944,
-    "longitude": -81.27182,
+    "latitude": 41.75384,
+    "longitude": -81.27306,
     "is_primary": true
   },
   {
