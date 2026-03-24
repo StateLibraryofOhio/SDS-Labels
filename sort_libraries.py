@@ -29,7 +29,7 @@ def sort_libraries(input_path, output_path=None):
     sorted_data = sorted(data, key=lambda x: (x.get("name") or "").casefold())
 
     # Reassign IDs sequentially to reflect new sort order
-    for index, item in enumerate(sorted_data, start=1):
+    for index, item in enumerate(sorted_data, start=0):
         item["id"] = index
 
     # Write (defaults to overwriting the input file)
