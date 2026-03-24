@@ -47,16 +47,16 @@ If the JSON structure is malformed, the entries will __not__ populate the dropdo
   }
 ```
 
-The `output.json` content may occasionally need to be updated to add entries as new libraries enter the program.  When adding a new library, append their new entry to the end of the `output.json` file and increment the previous entry's `id` value by "1" to get the value for your new entry.  It is not necessary for new entries to be sorted alphabetically in the output.json file; the libraries will be displayed alphabetically in the web form.  The critical thing to remember is that the `id` value must be unique.
+The `output.json` content may occasionally need to be updated to add entries as new libraries enter the program.  When adding a new library, append their new entry to the end of the `output.json` file. You can omit the `id` field when adding a new entry; the workflow (below) will assign one automatically.The critical thing to remember is that the `id` value must be unique.
 
-When adding a branch location for an existing library in the list, you can duplicate the "libid" value for the branch, but the "is_primary" value must be set to "false" for the new branch.  Only 1 entry per libid can be flagged as "true" in the "is_primary" field.
+When adding a branch location for an existing library in the list, you can duplicate the `libid` value for the branch, but the `is_primary` value must be set to `false` for the new branch.  Only 1 entry per libid can be flagged as true in the `is_primary` field.
 
 ## Automated Sorting
 
-A GitHub Actions workflow, `.github/workflows/sort-libraries.yml`, automatically sorts `output.json` alphabetically by library name and reassigns sequential `id` values each time a change to `output.json` or `sort_libraries.py` is pushed to `main`. The sort is performed by `sort_libraries.py`:
+A GitHub Actions workflow, `.github/workflows/sort-libraries.yml`, automatically sorts `output.json` alphabetically by library name each time a change to `output.json` or `sort_libraries.py` is pushed to `main`. The sort is performed by `sort_libraries.py`:
 
 ```bash
 python sort_libraries.py output.json
 ```
 
-Continue to append the new entry anywhere in `output.json` with any placeholder `id`, push to `main`, and the workflow will normalize the file.
+Continue to append the new entry to the bottom of `output.json` without an `id`, push to `main`, and the workflow will normalize the file, automatically assigning a new id for you. 
