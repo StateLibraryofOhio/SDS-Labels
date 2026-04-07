@@ -4578,15 +4578,15 @@
     "id": 305,
     "libid": "52024",
     "name": "Parma Heights",
-    "address": "6206 Pearl Road",
+    "address": "6188 Pearl Road",
     "city": "Parma Heights",
     "state": "OH",
     "zip": 44130,
     "seo": null,
     "hub": "CLE",
     "route": 4002,
-    "latitude": 41.39315464744022,
-    "longitude": -81.76032940206609,
+    "latitude": 41.39435,
+    "longitude": -81.76145,
     "is_primary": true
   },
   {
