@@ -480,6 +480,21 @@
     "is_primary": true
   },
   {
+    "id": 444,
+    "libid": "20810",
+    "name": "Bergholz Branch",
+    "address": "270 2nd Street",
+    "city": "Bergholz",
+    "state": "OH",
+    "zip": 43908,
+    "seo": "",
+    "hub": "CLE",
+    "route": 4001,
+    "latitude": 40.519587774745965,
+    "longitude": -80.88540277677511,
+    "is_primary": true
+  },
+  {
     "id": 30,
     "libid": "14503",
     "name": "Berlin Public Library",
@@ -6762,21 +6777,6 @@
     "route": 2001,
     "latitude": 40.43738619477806,
     "longitude": -84.49309771558347,
-    "is_primary": true
-  },
-  {
-    "id": 444,
-    "libid": "20810",
-    "name": "Bergholz Branch",
-    "address": "270 2nd Street",
-    "city": "Bergholz",
-    "state": "OH",
-    "zip": 43908,
-    "seo": "",
-    "hub": "CLE",
-    "route": 4001,
-    "latitude": 40.519587774745965,
-    "longitude": -80.88540277677511,
     "is_primary": true
   }
 ]
