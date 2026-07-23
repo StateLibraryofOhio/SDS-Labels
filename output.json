@@ -1365,6 +1365,21 @@
     "is_primary": true
   },
   {
+    "id": 468,
+    "libid": "5900",
+    "name": "Coshocton Lockers",
+    "address": "655 Main Street",
+    "city": "Coshocton",
+    "state": "OH",
+    "zip": 43812,
+    "seo": "CPL24",
+    "hub": "CMH",
+    "route": 3008,
+    "latitude": 40.273434,
+    "longitude": -81.86049,
+    "is_primary": true
+  },
+  {
     "id": 52,
     "libid": "4800",
     "name": "CRCPL Library at Home",
