@@ -1377,11 +1377,11 @@
     "route": 3008,
     "latitude": 40.273434,
     "longitude": -81.86049,
-    "is_primary": true
+    "is_primary": false
   },
   {
     "id": 52,
-    "libid": "4800",
+    "libid": "4800",`
     "name": "CRCPL Library at Home",
     "address": "Box 185; 140-146 S Paint Street",
     "city": "Chillicothe",
