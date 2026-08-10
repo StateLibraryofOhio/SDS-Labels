@@ -59,4 +59,23 @@ A GitHub Actions workflow, `.github/workflows/sort-libraries.yml`, automatically
 python sort_libraries.py output.json
 ```
 
-Continue to append the new entry to the bottom of `output.json` without an `id`, push to `main`, and the workflow will normalize the file, automatically assigning a new id for you. 
+Continue to append the new entry to the bottom of `output.json` without an `id`, push to `main`, and the workflow will normalize the file, automatically assigning a new id for you.
+
+## Validating `is_primary`
+
+Every `libid` must have exactly one entry with `is_primary: true` — including libids that only have a single entry. `validate_libraries.py` checks this (and that the file is valid JSON):
+
+```bash
+python validate_libraries.py output.json
+```
+
+This check runs automatically in `sort-libraries.yml` on every push to `main` that touches `output.json`, so a bad `is_primary` count (or malformed JSON) will fail the workflow.
+
+To catch the same problem locally before committing, enable the repo's pre-commit hook once per clone:
+
+```bash
+git config core.hooksPath hooks
+```
+
+After that, `git commit` will refuse to commit `output.json` if it's malformed or has a libid with zero or multiple `is_primary: true` entries.
+
