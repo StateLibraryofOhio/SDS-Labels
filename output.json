@@ -297,7 +297,7 @@
     "route": 4008,
     "latitude": 41.51004,
     "longitude": -82.0128,
-    "is_primary": false
+    "is_primary": true
   },
   {
     "id": 19,
@@ -2442,7 +2442,7 @@
     "route": 3001,
     "latitude": 40.021084,
     "longitude": -81.5658,
-    "is_primary": false
+    "is_primary": true
   },
   {
     "id": 159,
