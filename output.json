@@ -4308,15 +4308,15 @@
     "id": 286,
     "libid": "16800",
     "name": "North Canton P. L.",
-    "address": "185 N Main St",
+    "address": "339 East Maple St, suite 255",
     "city": "North Canton",
     "state": "OH",
     "zip": 44720,
     "seo": null,
     "hub": "CLE",
     "route": 4005,
-    "latitude": 40.87745,
-    "longitude": -81.402504,
+    "latitude": 40.87632,
+    "longitude": -81.398829,
     "is_primary": true
   },
   {
