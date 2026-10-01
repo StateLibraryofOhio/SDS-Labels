@@ -1,6 +1,6 @@
 # SDS-Labels
 
-SDS-Labels is a static web-based application for generating shipping labels to be used by the Statewide Delivery System, a service managed and coordinated by the State Library of Ohio. More information about the service can be found on the [State Library's website](https://library.ohio.gov/services-for-libraries/statewide-delivery/).
+SDS-Labels is a static web-based application for generating shipping labels to be used by the Statewide Delivery System, a service managed and coordinated by the State Library of Ohio. More information about the service can be found on the [State Library's website](https://library.ohio.gov/libraries/statewide-delivery).
 
 ## Tools Used
 
@@ -78,4 +78,3 @@ git config core.hooksPath hooks
 ```
 
 After that, `git commit` will refuse to commit `output.json` if it's malformed or has a libid with zero or multiple `is_primary: true` entries.
-
