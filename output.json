@@ -2340,6 +2340,21 @@
     "is_primary": true
   },
   {
+    "id": 238,
+    "libid": "97002",
+    "name": "Gratis Public library (Marion Lawrence Memorial Library)",
+    "address": "15 Franklin Street",
+    "city": "Gratis",
+    "state": "OH",
+    "zip": 45330,
+    "seo": "GTS",
+    "hub": "DAY",
+    "route": 2002,
+    "latitude": 39.64864625859805,
+    "longitude": -84.52913007312847,
+    "is_primary": true
+  },
+  {
     "id": 150,
     "libid": "8604",
     "name": "Green Springs Branch",
@@ -3567,21 +3582,6 @@
     "route": 5001,
     "latitude": 41.54047920900109,
     "longitude": -82.73312670206234,
-    "is_primary": true
-  },
-  {
-    "id": 238,
-    "libid": "97002",
-    "name": "Gratis Public library (Marion Lawrence Memorial Library)",
-    "address": "15 Franklin Street",
-    "city": "Gratis",
-    "state": "OH",
-    "zip": 45330,
-    "seo": "GTS",
-    "hub": "DAY",
-    "route": 2002,
-    "latitude": 39.64864625859805,
-    "longitude": -84.52913007312847,
     "is_primary": true
   },
   {
