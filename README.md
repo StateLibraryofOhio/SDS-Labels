@@ -47,7 +47,7 @@ If the JSON structure is malformed, the entries will __not__ populate the dropdo
   }
 ```
 
-The `output.json` content may occasionally need to be updated to add entries as new libraries enter the program.  When adding a new library, append their new entry to the end of the `output.json` file. You can omit the `id` field when adding a new entry; the workflow (below) will assign one automatically.The critical thing to remember is that the `id` value must be unique.
+The `output.json` content may occasionally need to be updated to add entries as new libraries enter the program.  When adding a new library, append their new entry to the end of the `output.json` file. You can omit the `id` field when adding a new entry; the workflow (below) will assign one automatically. Leave `id` out rather than choosing one by hand: ids must be unique, and once assigned they should never change. If a location closes or is replaced, delete its entry and add the new location as a new entry (without an `id`) rather than editing the old one, so its id is never reused for a different place.
 
 When adding a branch location for an existing library in the list, you can duplicate the `libid` value for the branch, but the `is_primary` value must be set to `false` for the new branch.  Only 1 entry per libid can be flagged as true in the `is_primary` field.
 
@@ -61,9 +61,9 @@ python sort_libraries.py output.json
 
 Continue to append the new entry to the bottom of `output.json` without an `id`, push to `main`, and the workflow will normalize the file, automatically assigning a new id for you.
 
-## Validating `is_primary`
+## Validating `output.json`
 
-Every `libid` must have exactly one entry with `is_primary: true` — including libids that only have a single entry. `validate_libraries.py` checks this (and that the file is valid JSON):
+Every `libid` must have exactly one entry with `is_primary: true` — including libids that only have a single entry — and no two entries may share an `id`. `validate_libraries.py` checks both (and that the file is valid JSON). Entries with no `id` are allowed; the workflow assigns them one:
 
 ```bash
 python validate_libraries.py output.json

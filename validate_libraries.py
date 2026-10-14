@@ -23,7 +23,9 @@ def validate_libraries(input_path):
     ids = defaultdict(list)
     for item in data:
         groups[item.get("libid")].append(item)
-        ids[item.get("id")].append(item)
+        # Entries without a valid id are left for sort_libraries.py to assign
+        if isinstance(item.get("id"), int) and item["id"] > 0:
+            ids[item["id"]].append(item)
 
     errors = []
     for id_, items in ids.items():
