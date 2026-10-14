@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Blocks commits that leave output.json malformed or with a bad is_primary count.
+# Blocks commits that leave output.json malformed or with duplicate ids or a bad is_primary count.
 # Enable with: git config core.hooksPath hooks
 set -euo pipefail
 

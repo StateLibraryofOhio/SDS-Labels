@@ -20,10 +20,17 @@ def validate_libraries(input_path):
         return False
 
     groups = defaultdict(list)
+    ids = defaultdict(list)
     for item in data:
         groups[item.get("libid")].append(item)
+        ids[item.get("id")].append(item)
 
     errors = []
+    for id_, items in ids.items():
+        if len(items) > 1:
+            names = ", ".join(item.get("name", "?") for item in items)
+            errors.append(f"id {id_!r} is used by {len(items)} entries ({names})")
+
     for libid, items in groups.items():
         primaries = [item for item in items if item.get("is_primary") is True]
         if len(primaries) == 0:
@@ -34,18 +41,18 @@ def validate_libraries(input_path):
             errors.append(f"libid {libid!r} has {len(primaries)} entries marked is_primary: true ({names})")
 
     if errors:
-        print("Error: is_primary validation failed:", file=sys.stderr)
+        print("Error: validation failed:", file=sys.stderr)
         for error in errors:
             print(f"  - {error}", file=sys.stderr)
         return False
 
-    print(f"✓ Validated {len(data)} entries across {len(groups)} libid group(s) — exactly one is_primary per group.")
+    print(f"✓ Validated {len(data)} entries across {len(groups)} libid group(s) — ids unique, exactly one is_primary per group.")
     return True
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
-        description="Validate that each libid in a library JSON array has exactly one entry marked is_primary: true."
+        description="Validate that ids in a library JSON array are unique and each libid has exactly one entry marked is_primary: true."
     )
     parser.add_argument("input", help="Path to the source JSON file.")
 
